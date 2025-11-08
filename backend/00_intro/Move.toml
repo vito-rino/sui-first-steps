@@ -3,6 +3,6 @@ name = "Introducao"
 version = "0.0.0"
 
 [addresses]
-introducao = "0x5A6F6E612054726573"
+introducao = "0xc3edfe7249c09877920f2226dc5c5a2d1748932eada7d359eae9dd5ce2466c28"
 
 [dependencies]
