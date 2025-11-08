@@ -1,4 +1,4 @@
-/// Módulo de prática para imprimir texto e arte ASCII no SUI Bootcamp.
+/// Módulo de prática para imprimir ASCII no SUI Bootcamp.
 module introducao::pratica_sui {
     use std::debug::print;
     use std::string::utf8;
